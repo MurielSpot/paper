@@ -5,6 +5,11 @@ https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutoria
 
 
 ## node2vec
+node2vec: Scalable Feature Learning for Networks
+[paper](https://arxiv.org/abs/1607.00653)
+[project page](https://snap.stanford.edu/node2vec/)
+
+github上的相关代码
 https://github.com/aditya-grover/node2vec
 
 
