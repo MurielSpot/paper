@@ -12,7 +12,7 @@ node2vec: Scalable Feature Learning for Networks
 [project page](https://snap.stanford.edu/node2vec/)
 
 github上的相关代码
-https://github.com/aditya-grover/node2vec
+- https://github.com/aditya-grover/node2vec
 
 
 ## deepwalk
